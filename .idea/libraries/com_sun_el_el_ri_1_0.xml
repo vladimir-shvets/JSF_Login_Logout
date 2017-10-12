@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.sun.el:el-ri:1.0" type="repository">
+    <properties maven-id="com.sun.el:el-ri:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/el/el-ri/1.0/el-ri-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
